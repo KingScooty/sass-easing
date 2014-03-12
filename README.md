@@ -18,36 +18,36 @@ Best to use alongside compass or bourbon (or an autoprefixer). An example useage
 
 The following easing functions are available:
 
-easeInSine
-easeOutSine
-easeInOutSine
+- easeInSine
+- easeOutSine
+- easeInOutSine
 
-easeInQuad
-easeOutQuad
-easeInOutQuad
+- easeInQuad
+- easeOutQuad
+- easeInOutQuad
 
-easeInCubic
-easeOutCubic
-easeInOutCubic
+- easeInCubic
+- easeOutCubic
+- easeInOutCubic
 
-easeInQuart
-easeOutQuart
-easeInOutQuart
+- easeInQuart
+- easeOutQuart
+- easeInOutQuart
 
-easeInQuint
-easeOutQuint
-easeInOutQuint
+- easeInQuint
+- easeOutQuint
+- easeInOutQuint
 
-easeInExpo
-easeOutExpo
-easeInOutExpo
+- easeInExpo
+- easeOutExpo
+- easeInOutExpo
 
-easeInCirc
-easeOutCirc
-easeInOutCirc
+- easeInCirc
+- easeOutCirc
+- easeInOutCirc
 
-easeInBack
-easeOutBack
-easeInOutBack
+- easeInBack
+- easeOutBack
+- easeInOutBack
 
-easeInOutFast
+- easeInOutFast
