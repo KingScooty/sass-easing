@@ -1,0 +1,19 @@
+{
+  "name": "sass-easing",
+  "version": "1.0",
+  "homepage": "https://github.com/KingScooty/sass-easing",
+  "authors": [
+    "Rafal Bromirski <scott.vernon@gmail.com>"
+  ],
+  "description": "It is a collection of useful easing variables for Sass. Great when used with compass or bourbon.",
+  "main": "_sass-easing.scss",
+  "keywords": [
+    "sass",
+    "scss",
+    "css",
+    "easing",
+    "animation",
+    "css3"
+  ],
+  "license": "MIT"
+}
