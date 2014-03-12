@@ -5,7 +5,7 @@
   "authors": [
     "Scotty Vernon <scott.vernon@gmail.com>"
   ],
-  "description": "It is a collection of useful easing variables for Sass. Great when used with compass or bourbon.",
+  "description": "Sass Easing is a collection of useful easing variables for Sass. Great when used with compass or bourbon.",
   "main": "_sass-easing.scss",
   "keywords": [
     "sass",
