@@ -1,7 +1,7 @@
-sass-easing
+Sass Easing Variables
 ===========
 
-Some mixins for easing animations using SASS. 
+Some useful variables for easing animations using SASS. 
 I'll add to this file whenever i come across a cool easing pattern.
 
 ##Installation
