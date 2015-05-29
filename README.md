@@ -1,18 +1,31 @@
-Sass Easing Variables
+Awesome Sass Easing Variables
 ===========
 
+# sass-easing
 Some useful variables for easing animations using SASS. 
 I'll add to this file whenever i come across a cool easing pattern.
 
-##Installation
+## Install
 
-`bower install sass-easing`
+```bash
+$ npm install awesome-sass-easing --save
+```
 
-##Usage
+or
 
-Best to use alongside compass or bourbon (or an autoprefixer). An example useage can be seen as follows:
+```
+$ bower install sass-easing --save
+```
 
-`@include transition(top 500ms $easeInCubic);`
+## Usage
+
+```SCSS
+@import "../node_modules/awesome-sass-easing/_easings.scss";
+
+.element {
+  transition(top 500ms $easeInCubic);
+}
+```
 
 ##Easing Functions
 
@@ -51,3 +64,7 @@ The following easing functions are available:
 - easeInOutBack
 
 - easeInOutFast
+
+## License
+
+MIT
