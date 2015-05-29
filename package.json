@@ -1,7 +1,7 @@
 {
   "name": "sass-easing",
   "main": "_sass-easings.scss",
-  "version": "1.1",
+  "version": "1.1.0",
   "description": "Some useful variables for easing animations using SASS.",
   "repository": {
     "type": "git",
